@@ -1,0 +1,15 @@
+.cardHeight {
+    height: 600px !important;
+}
+
+@media (max-width: 767px) {
+    .cardHeight {
+        height: 750px !important;
+    }
+}
+
+@media (max-width: 415px) {
+    .cardHeight {
+        height: 650px !important;
+    }
+}
